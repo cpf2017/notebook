@@ -116,4 +116,5 @@ input password:
 5. 跟新本地仓库，与github仓库进行同步。将服务器提交拉取到本地
 ```sh
 $ git pull
+```
 #MarkDown语法
