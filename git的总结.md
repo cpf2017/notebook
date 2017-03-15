@@ -107,6 +107,7 @@ $ git commit
 3. 从github将创建的gitc仓库，克隆到本地
 ```sh
 $ git clone https://github.com/usernane/gitc.git
+```
 4. 将本地仓库与github仓库进行同步，将本地提交推送到服务器上
 ```sh
 $ git push origin master
