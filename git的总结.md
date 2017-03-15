@@ -111,10 +111,12 @@ $ git clone https://github.com/usernane/gitc.git
 4. 将本地仓库与github仓库进行同步，将本地提交推送到服务器上
 ```sh
 $ git push origin master
+
+input username
+input password
 ```
-*input username:
-*input password:
-5. 跟新本地仓库，与github仓库进行同步。将服务器提交拉取到本地
+
+## 跟新本地仓库，与github仓库进行同步。将服务器提交拉取到本地
 ```sh
 $ git pull
 ```
